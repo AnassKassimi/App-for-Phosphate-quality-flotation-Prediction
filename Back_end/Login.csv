@@ -1,0 +1,6 @@
+Name,Last_name,Email,Password,Role,Created
+admin,admin,admin,$2b$12$rMNUqVgOECsWEN/JcMy32uZt/H1hU0TUt/xNzp8qWcoCQjBMa1tzu,Ingénieur de process,2020-07-20 03:19:00.675032
+Oussama,Hasidi,hasidi@ocp.ma,$2b$12$/Ld7/4a0/r7.E7E3klaSb.Tc0zetIFDPWnJpVVs4eruIqQ6Tnf.qm,Agent de contrôle,2020-07-20 03:22:01.795536
+Anass,El Kassemi,anass@ocp.ma,$2b$12$YSsLBIU4x6k.l/tZieAG1.sRntUVyyJl/janym4LcBN55J9dous5e,Ingénieur de process,2020-07-20 03:23:52.055735
+anass,kassmi,anas.kassimi@ocp.ma,$2b$12$Um0XJggsrKjL6KINszWgtO2DIG3dC0gH4rL5RD.t8bt23CHosizXe,Agent de Contrôle,08 August 2020 - 19:03:48
+Oussama,Hasidi,hasidi.oussama@ocp.ma,$2b$12$Yy3WFM1W0zNsDvBuI0ycxe43ct2/NSWM3SXu9Hkb/rnIz0.xeNtR.,Ingénieur de Process,08 August 2020 - 19:34:30
